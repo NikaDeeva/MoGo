@@ -1,0 +1,29 @@
+.line{
+    width: 60px;
+    height: 4px;
+    background: #F38181;
+}
+a{
+    color: rgb(16, 159, 32) ;
+    text-decoration: none;
+}
+.button{
+    background-color: #95E1D3;
+    border: none;
+    color: white;
+    padding: 12px 38px;
+    cursor: pointer;
+}
+.input{
+    color: #B6B6B6;
+    padding: 14px 10px;
+    width: 230px;
+}
+.text{
+    font-weight: 400;
+font-size: 24px;
+}
+.title{
+    font-weight: 700;
+font-size: 30px;
+}
