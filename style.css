@@ -3,9 +3,19 @@
     --title-color: #333;
     --text-color: #B6B6B6;
     --line-color: #F38181;
+    --body-color: #fff;
 }
-
-
+body{
+    font-family: 'Montserrat', sans-serif;
+    color: var(--body-color);
+}
+.container{
+width: 1230px;
+padding-left: 15px;
+padding-right: 15px;
+margin: 0 auto;
+border: 2px solid black;
+}
 .logo{
     color: var(--logo-color);
 font-family: 'Montserrat';
